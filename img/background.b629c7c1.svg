@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 545 545">
+	<defs>
+		<style>.cls-1{fill:#4b6cb7;}.cls-2{fill:none;stroke:#afcbd8;stroke-miterlimit:10;stroke-width:1.5px;stroke-dasharray:48 8 8 8;}.cls-3{fill:#b0ccd8;}.cls-4{fill:#2e4679;}.cls-5{clip-path:url(#clip-path);}</style>
+		<clipPath id="clip-path">
+			<polygon class="cls-1" points="223.56 486.07 394.89 486.07 457.56 356.05 394.89 226.04 223.56 226.04 286.24 356.05 223.56 486.07"/>
+		</clipPath>
+	</defs>
+	<title>Artboard 7</title>
+	<line class="cls-2" x1="149.16" y1="507" x2="318.33" y2="507"/>
+	<polygon class="cls-3" points="320.98 356.05 149.36 0 318.11 0 489.74 356.05 320.98 356.05"/>
+	<polygon class="cls-4" points="545 356.05 453.92 545 282.6 545 373.68 356.05 545 356.05"/>
+	<polygon class="cls-1" points="223.56 486.07 394.89 486.07 457.56 356.05 394.89 226.04 223.56 226.04 286.24 356.05 223.56 486.07"/>
+</svg>
